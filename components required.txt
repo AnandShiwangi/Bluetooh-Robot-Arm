@@ -1,0 +1,7 @@
+Components Used:
+Microcontroller(Arduino Uno)
+jumper wires
+Servo Motor X 2
+Breadboard
+Bluetooth Module(HC-05)
+Cardboard(for frame)
